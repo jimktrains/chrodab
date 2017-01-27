@@ -1,0 +1,4 @@
+target
+gen-cpp
+sender/gen-py
+*.sw[op]
